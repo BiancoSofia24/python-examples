@@ -1,0 +1,10 @@
+{
+    "type": "json",
+    "name": "file",
+    "credentials": {
+        "username": "username",
+        "password": "password"
+    },
+    "url": "https://google.com",
+    "clients": ["client 1", "client 2"]
+}
